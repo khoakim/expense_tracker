@@ -1,0 +1,6 @@
+1) To use font
+    a) Have the font in assets folder
+    b) Have "react-native.config.js" file
+    c) run "npx react-native link"
+    d) expo install expo-font @expo-google-fonts/inter
+    e) expo install expo-app-loading
